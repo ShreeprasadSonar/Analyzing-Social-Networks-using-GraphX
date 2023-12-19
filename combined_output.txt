@@ -1,0 +1,37 @@
+Top 5 nodes with highest outdegree:
+   id  outDegree
+  645       1801
+  763       1669
+  634       1621
+71399       1128
+ 3924        976
+
+Top 5 nodes with highest indegree:
+ id  inDegree
+ 18      3035
+143      1521
+737      1317
+790      1284
+136      1180
+
+Top 5 nodes with highest PageRank values:
+  id   pagerank
+  18 337.438550
+ 737 234.394786
+ 118 157.846254
+1719 154.723176
+ 136 147.775633
+
+Top 5 components with largest number of nodes:
+ component  count
+         0  75877
+     71749      2
+
+Top 5 vertices with largest triangle count:
+ id  count
+645  48674
+ 18  47203
+ 27  25817
+634  25230
+ 44  24752
+
